@@ -1,0 +1,5 @@
+The code to get the program execution time was obtained from this source:
+https://www.geeksforgeeks.org/measure-execution-time-function-cpp/
+
+I used this source to figure out how to get an EOF from scanf
+https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic5/v4/7d/e6/2d/7de62de1-d122-2fd7-e402-1e30ae817711/335-7045950043915374799-ch02.pdf?a=v%3D3%26artistId%3D1280875126%26podcastId%3D929477747%26podcastName%3D%25E8%25B3%2587%25E8%25A8%258A%25E7%25A7%2591%25E6%258A%2580%25E6%25A6%2582%25E8%25AB%2596%25E8%2588%2587%25E7%25A8%258B%25E5%25BC%258F%25E8%25A8%25AD%25E8%25A8%2588%2528%25E4%25B8%2580%2529%2BIntroduction%2Bto%2BComputers%2Band%2BProgramming%2BI%26episodeId%3D1000358042939%26episodeName%3D%2528%25E8%25AC%259B%25E7%25BE%25A9%2529%2BLesson%2B2%2BFunctions%252C%2Bscanf%2Band%2BEOF%26episodeKind%3Dpdf%26pageLocation%3Ditc
